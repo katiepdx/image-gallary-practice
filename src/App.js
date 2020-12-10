@@ -7,7 +7,6 @@ function App() {
       <h1>Image Gallery Practice</h1>
 
       <ImageSlider />
-
     </div>
   );
 }
